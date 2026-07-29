@@ -22,16 +22,16 @@
 
 .publication-card {
   padding: 1rem 1.1rem;
-  border: 1px solid #d9e2ec;
-  border-radius: 12px;
-  background: linear-gradient(180deg, #fff 0%, #fbfdff 100%);
-  box-shadow: 0 6px 18px rgba(31, 53, 78, 0.05);
+  border: 1px solid #c9d9e9;
+  border-radius: 14px;
+  background: linear-gradient(180deg, #fff 0%, #f8fbfe 100%);
+  box-shadow: 0 8px 22px rgba(31, 53, 78, 0.075);
   transition: border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
 }
 
 .publication-card:hover {
-  border-color: #b9cde0;
-  box-shadow: 0 10px 24px rgba(31, 53, 78, 0.08);
+  border-color: #9fbbd5;
+  box-shadow: 0 12px 28px rgba(31, 53, 78, 0.11);
   transform: translateY(-1px);
 }
 
