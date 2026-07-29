@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. student in the <a href="https://ece.hkust.edu.hk/">Department of Electronic and Computer Engineering</a> at <a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology</a>, supervised by <a href="https://seng.hkust.edu.hk/about/people/faculty/vincent-kin-nang-lau">Prof. Vincent Kin Nang LAU</a>.
 
-I received my Bachelor's degree from the School of Intelligent Systems Engineering at <a href="https://www.sysu.edu.cn/sysuen/">Sun Yat-sen University</a>, supervised by Prof. Shimin Gong.
+I received my Bachelor's degree from the School of Intelligent Systems Engineering at <a href="https://www.sysu.edu.cn/">Sun Yat-sen University</a>, supervised by Prof. Shimin Gong.
 
 My research interests lie in LLM agent post-training, reinforcement learning fine-tuning, optimizer stability and stepsize design, deep reinforcement learning, stochastic optimization, and network optimization.
 
