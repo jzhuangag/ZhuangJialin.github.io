@@ -1,0 +1,127 @@
+.publication-intro {
+  margin: 0 0 1.4rem;
+  color: #68717c;
+  font-size: 0.82rem;
+}
+
+.publication-group + .publication-group {
+  margin-top: 1.8rem;
+}
+
+.publication-group__title {
+  margin: 0 0 0.7rem;
+  color: #3f4853;
+  font-size: 1rem;
+  letter-spacing: 0.01em;
+}
+
+.publication-list {
+  display: grid;
+  gap: 0.9rem;
+}
+
+.publication-card {
+  padding: 1rem 1.1rem;
+  border: 1px solid #d9e2ec;
+  border-radius: 12px;
+  background: linear-gradient(180deg, #fff 0%, #fbfdff 100%);
+  box-shadow: 0 6px 18px rgba(31, 53, 78, 0.05);
+  transition: border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
+}
+
+.publication-card:hover {
+  border-color: #b9cde0;
+  box-shadow: 0 10px 24px rgba(31, 53, 78, 0.08);
+  transform: translateY(-1px);
+}
+
+.publication-card__badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 0.45rem;
+}
+
+.publication-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.12rem 0.45rem;
+  border: 1px solid #bfd2e6;
+  border-radius: 5px;
+  background: #edf5fc;
+  color: #315d83;
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.045em;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+.publication-badge--ref {
+  background: #f7fafc;
+  color: #596775;
+}
+
+.publication-card__title {
+  margin: 0;
+  color: #303841;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.38;
+}
+
+.publication-card__authors,
+.publication-card__venue {
+  margin: 0.3rem 0 0;
+  line-height: 1.45;
+}
+
+.publication-card__authors {
+  color: #3f4853;
+  font-size: 0.86rem;
+}
+
+.publication-card__venue {
+  color: #68717c;
+  font-size: 0.8rem;
+}
+
+.publication-card__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-top: 0.65rem;
+}
+
+.page__content .publication-link {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.18rem 0.55rem;
+  border: 1px solid #b9cee5;
+  border-radius: 999px;
+  background: #edf5fc;
+  color: #27618e;
+  font-size: 0.66rem;
+  font-weight: 700;
+  letter-spacing: 0.035em;
+  line-height: 1.2;
+  text-decoration: none;
+}
+
+.page__content .publication-link:hover {
+  border-color: #8fb2d2;
+  background: #dcecf8;
+  color: #164e78;
+  text-decoration: none;
+}
+
+@media (max-width: 600px) {
+  .publication-card {
+    padding: 0.85rem 0.9rem;
+  }
+
+  .publication-card__title {
+    font-size: 0.94rem;
+  }
+}
