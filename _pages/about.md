@@ -12,8 +12,6 @@ I am a Ph.D. student in the <a href="https://ece.hkust.edu.hk/">Department of El
 
 I received my Bachelor's degree from the School of Intelligent Systems Engineering at <a href="https://www.sysu.edu.cn/">Sun Yat-sen University</a>, supervised by Prof. Shimin Gong.
 
-My research interests lie in LLM agent post-training, reinforcement learning fine-tuning, optimizer stability and stepsize design, deep reinforcement learning, stochastic optimization, and network optimization.
-
 ### Research Interests
 
 - LLM agent post-training
