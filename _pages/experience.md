@@ -24,4 +24,8 @@ author_profile: true
 
 ## Teaching Experience
 
-To be updated.
+- **ELEC 2600:** Probability and Random Processes in Engineering
+- **ELEC 4110:** Digital Communications and Wireless Systems
+- **ELEC 5460:** Stochastic Optimization for Wireless Systems and Federated Learning
+- **EESM 5539:** Wireless Communication Networks
+- **EESM 5670:** Advanced Architectures and Designs for Communication Networks
