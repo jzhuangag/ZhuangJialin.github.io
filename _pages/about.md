@@ -12,6 +12,8 @@ I am currently a second-year Ph.D. student in the <a href="https://ece.hkust.edu
 
 I received my Bachelor of Engineering (B.Eng.) degree in 2024 from the School of Intelligent Systems Engineering at <a href="https://www.sysu.edu.cn/">Sun Yat-sen University</a>, where I was supervised by <a href="https://ise.sysu.edu.cn/teacher/GongShimin">Prof. Shimin Gong</a>.
 
+If you are interested in my work, please feel free to drop me an <a href="mailto:jzhuangag@connect.ust.hk">email</a>. You can also view my <a href="{{ '/files/Jialin_Zhuang_CV.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">CV</a>.
+
 ### Research Interests
 
 - LLM agent post-training
